@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "평택 고덕 수자인풍경채", url: "https://www.diarivalencia.com/" },
+  { name: "평택 고덕 수자인풍경채", url: "https://xn--289apct1w55qukgde446a3qjlygg4b.kr/" },
 ];
 
 const Footer = () => {

@@ -60,7 +60,7 @@ const BusinessGuide2 = () => {
     name="keywords"
     content="평택 고덕 수자인풍경채 분양일정, 고덕국제신도시 수자인풍경채 청약, 평택 고덕 분양일정, 평택 고덕 수자인풍경채 모집공고, 평택 고덕 수자인풍경채 계약"
   />
-  <link rel="canonical" href="https://www.diarivalencia.com/BusinessGuide/plan" />
+  <link rel="canonical" href="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/BusinessGuide/plan" />
   <meta name="robots" content="index,follow" />
 </Helmet>
 

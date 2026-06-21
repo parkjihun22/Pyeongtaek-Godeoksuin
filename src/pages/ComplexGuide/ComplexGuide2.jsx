@@ -66,7 +66,7 @@ const ComplexGuide1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.diarivalencia.com/ComplexGuide/detailintro"
+    href="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/ComplexGuide/detailintro"
   />
 
   <meta name="robots" content="index,follow" />
@@ -87,12 +87,12 @@ const ComplexGuide1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.diarivalencia.com/ComplexGuide/detailintro"
+    content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/ComplexGuide/detailintro"
   />
 
   <meta
     property="og:image"
-    content="https://www.diarivalencia.com/img/og/complex.jpg"
+    content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/complex.jpg"
   />
 </Helmet>
 

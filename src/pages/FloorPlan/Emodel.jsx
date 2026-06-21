@@ -61,7 +61,7 @@ const Emodel = () => {
 
   <link
     rel="canonical"
-    href="https://www.diarivalencia.com/FloorPlan/Emodel"
+    href="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/FloorPlan/Emodel"
   />
 
   <meta property="og:type" content="website" />
@@ -71,8 +71,8 @@ const Emodel = () => {
     property="og:description"
     content="고덕국제신도시 수자인풍경채 E모델하우스에서 세대 평면과 공간 구성을 온라인으로 확인하세요."
   />
-  <meta property="og:url" content="https://www.diarivalencia.com/FloorPlan/Emodel" />
-  <meta property="og:image" content="https://www.diarivalencia.com/img/og/emodel.jpg" />
+  <meta property="og:url" content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/FloorPlan/Emodel" />
+  <meta property="og:image" content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/emodel.jpg" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
 
@@ -82,28 +82,28 @@ const Emodel = () => {
     name="twitter:description"
     content="평택 고덕 수자인풍경채 E모델하우스로 세대 평면과 실내 공간을 확인하세요."
   />
-  <meta name="twitter:image" content="https://www.diarivalencia.com/img/og/emodel.jpg" />
-  <meta name="twitter:url" content="https://www.diarivalencia.com/FloorPlan/Emodel" />
+  <meta name="twitter:image" content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/emodel.jpg" />
+  <meta name="twitter:url" content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/FloorPlan/Emodel" />
 
   <script type="application/ld+json">
     {JSON.stringify({
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "평택 고덕 수자인풍경채 - E모델하우스",
-      "url": "https://www.diarivalencia.com/FloorPlan/Emodel",
+      "url": "https://xn--289apct1w55qukgde446a3qjlygg4b.kr/FloorPlan/Emodel",
       "description":
         "평택 고덕 수자인풍경채 E모델하우스 페이지입니다. 세대 평면, 실내 구조, 공간 구성과 주거 동선을 온라인으로 확인할 수 있습니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.diarivalencia.com/img/og/emodel.jpg",
+        "contentUrl": "https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/emodel.jpg",
         "width": 1200,
         "height": 630
       },
       "breadcrumb": {
         "@type": "BreadcrumbList",
         "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://www.diarivalencia.com/" },
-          { "@type": "ListItem", "position": 2, "name": "E모델하우스", "item": "https://www.diarivalencia.com/FloorPlan/Emodel" }
+          { "@type": "ListItem", "position": 1, "name": "홈", "item": "https://xn--289apct1w55qukgde446a3qjlygg4b.kr/" },
+          { "@type": "ListItem", "position": 2, "name": "E모델하우스", "item": "https://xn--289apct1w55qukgde446a3qjlygg4b.kr/FloorPlan/Emodel" }
         ]
       }
     })}

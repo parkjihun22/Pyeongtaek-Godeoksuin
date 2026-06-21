@@ -83,7 +83,7 @@ export default function Customer() {
 
   <link
     rel="canonical"
-    href="https://www.diarivalencia.com/Promotion/Customer"
+    href="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/Promotion/Customer"
   />
 
   {/* Open Graph */}
@@ -102,12 +102,12 @@ export default function Customer() {
 
   <meta
     property="og:url"
-    content="https://www.diarivalencia.com/Promotion/Customer"
+    content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/Promotion/Customer"
   />
 
   <meta
     property="og:image"
-    content="https://www.diarivalencia.com/img/og/customer.jpg"
+    content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/customer.jpg"
   />
 
   <meta property="og:image:width" content="1200" />
@@ -128,12 +128,12 @@ export default function Customer() {
 
   <meta
     name="twitter:image"
-    content="https://www.diarivalencia.com/img/og/customer.jpg"
+    content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/customer.jpg"
   />
 
   <meta
     name="twitter:url"
-    content="https://www.diarivalencia.com/Promotion/Customer"
+    content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/Promotion/Customer"
   />
 
   {/* JSON-LD (대표 이미지/브레드크럼 포함) */}
@@ -144,14 +144,14 @@ export default function Customer() {
 
       "name":"평택 고덕 수자인풍경채 - 관심고객등록",
 
-      "url":"https://www.diarivalencia.com/Promotion/Customer",
+      "url":"https://xn--289apct1w55qukgde446a3qjlygg4b.kr/Promotion/Customer",
 
       "description":
       "평택 고덕 수자인풍경채 관심고객등록 페이지입니다. 분양 일정, 청약 정보, 모델하우스 소식 등 주요 안내를 우선 제공합니다.",
 
       "primaryImageOfPage":{
         "@type":"ImageObject",
-        "contentUrl":"https://www.diarivalencia.com/img/og/customer.jpg",
+        "contentUrl":"https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/customer.jpg",
         "width":1200,
         "height":630
       },
@@ -163,13 +163,13 @@ export default function Customer() {
             "@type":"ListItem",
             "position":1,
             "name":"홈",
-            "item":"https://www.diarivalencia.com/"
+            "item":"https://xn--289apct1w55qukgde446a3qjlygg4b.kr/"
           },
           {
             "@type":"ListItem",
             "position":2,
             "name":"관심고객등록",
-            "item":"https://www.diarivalencia.com/Promotion/Customer"
+            "item":"https://xn--289apct1w55qukgde446a3qjlygg4b.kr/Promotion/Customer"
           }
         ]
       }

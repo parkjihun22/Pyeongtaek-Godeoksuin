@@ -74,7 +74,7 @@ content="평택 고덕 수자인풍경채, 고덕국제신도시 수자인풍경
 
 <link
 rel="canonical"
-href="https://www.diarivalencia.com/BusinessGuide/intro"
+href="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/BusinessGuide/intro"
 />
 
 <meta property="og:type" content="website" />
@@ -92,12 +92,12 @@ content="평택 고덕국제신도시 수자인풍경채 사업안내. 생활 �
 
 <meta
 property="og:url"
-content="https://www.diarivalencia.com/BusinessGuide/intro"
+content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/BusinessGuide/intro"
 />
 
 <meta
 property="og:image"
-content="https://www.diarivalencia.com/img/og/business.jpg"
+content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/business.jpg"
 />
 
 <meta property="og:image:width" content="1200" />
@@ -117,7 +117,7 @@ content="평택 고덕 수자인풍경채 사업안내 및 브랜드 프리미�
 
 <meta
 name="twitter:image"
-content="https://www.diarivalencia.com/img/og/business.jpg"
+content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/business.jpg"
 />
 
 <script type="application/ld+json">
@@ -127,13 +127,13 @@ content="https://www.diarivalencia.com/img/og/business.jpg"
 
 "name":"평택 고덕 수자인풍경채 사업안내",
 
-"url":"https://www.diarivalencia.com/BusinessGuide/intro",
+"url":"https://xn--289apct1w55qukgde446a3qjlygg4b.kr/BusinessGuide/intro",
 
 "description":"평택 고덕국제신도시 수자인풍경채 사업개요, 입지환경, 브랜드 프리미엄 정보를 제공합니다.",
 
 "primaryImageOfPage":{
 "@type":"ImageObject",
-"contentUrl":"https://www.diarivalencia.com/img/og/business.jpg",
+"contentUrl":"https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/business.jpg",
 "width":1200,
 "height":630
 },
@@ -145,13 +145,13 @@ content="https://www.diarivalencia.com/img/og/business.jpg"
 "@type":"ListItem",
 "position":1,
 "name":"홈",
-"item":"https://www.diarivalencia.com/"
+"item":"https://xn--289apct1w55qukgde446a3qjlygg4b.kr/"
 },
 {
 "@type":"ListItem",
 "position":2,
 "name":"사업안내",
-"item":"https://www.diarivalencia.com/BusinessGuide/intro"
+"item":"https://xn--289apct1w55qukgde446a3qjlygg4b.kr/BusinessGuide/intro"
 }
 ]
 }

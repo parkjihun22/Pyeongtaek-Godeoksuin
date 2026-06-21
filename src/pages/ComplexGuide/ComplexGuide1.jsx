@@ -68,7 +68,7 @@ const ComplexGuide1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.diarivalencia.com/ComplexGuide/intro"
+    href="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/ComplexGuide/intro"
   />
 
   {/* Open Graph */}
@@ -87,12 +87,12 @@ const ComplexGuide1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.diarivalencia.com/ComplexGuide/intro"
+    content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/ComplexGuide/intro"
   />
 
   <meta
     property="og:image"
-    content="https://www.diarivalencia.com/img/og/complex.jpg"
+    content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/complex.jpg"
   />
 
   <meta property="og:image:width" content="1200" />
@@ -113,12 +113,12 @@ const ComplexGuide1 = () => {
 
   <meta
     name="twitter:image"
-    content="https://www.diarivalencia.com/img/og/complex.jpg"
+    content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/complex.jpg"
   />
 
   <meta
     name="twitter:url"
-    content="https://www.diarivalencia.com/ComplexGuide/intro"
+    content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/ComplexGuide/intro"
   />
 
   {/* JSON-LD */}
@@ -129,14 +129,14 @@ const ComplexGuide1 = () => {
 
       "name":"평택 고덕 수자인풍경채 - 단지배치도",
 
-      "url":"https://www.diarivalencia.com/ComplexGuide/intro",
+      "url":"https://xn--289apct1w55qukgde446a3qjlygg4b.kr/ComplexGuide/intro",
 
       "description":
       "평택 고덕 수자인풍경채 단지배치도 페이지입니다. 평택 고덕국제신도시 수자인풍경채의 단지 구성과 조경 특화, 커뮤니티 시설, 생활 동선을 확인할 수 있습니다.",
 
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl":"https://www.diarivalencia.com/img/og/complex.jpg",
+        "contentUrl":"https://xn--289apct1w55qukgde446a3qjlygg4b.kr/img/og/complex.jpg",
         "width":1200,
         "height":630
       },
@@ -148,13 +148,13 @@ const ComplexGuide1 = () => {
             "@type":"ListItem",
             "position":1,
             "name":"홈",
-            "item":"https://www.diarivalencia.com/"
+            "item":"https://xn--289apct1w55qukgde446a3qjlygg4b.kr/"
           },
           {
             "@type":"ListItem",
             "position":2,
             "name":"단지배치도",
-            "item":"https://www.diarivalencia.com/ComplexGuide/intro"
+            "item":"https://xn--289apct1w55qukgde446a3qjlygg4b.kr/ComplexGuide/intro"
           }
         ]
       }

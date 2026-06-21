@@ -60,7 +60,7 @@ const LocationEnvironment1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.diarivalencia.com/LocationEnvironment/primium"
+    href="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/LocationEnvironment/primium"
   />
 
   <meta name="robots" content="index,follow" />

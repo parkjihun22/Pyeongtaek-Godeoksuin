@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.diarivalencia.com/sitemap.xml
+Sitemap: https://xn--289apct1w55qukgde446a3qjlygg4b.kr/sitemap.xml

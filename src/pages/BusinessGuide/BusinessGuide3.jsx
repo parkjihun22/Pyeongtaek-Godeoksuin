@@ -82,7 +82,7 @@ const BusinessGuide2 = () => {
 
   <link
     rel="canonical"
-    href="https://www.diarivalencia.com/BusinessGuide/documents"
+    href="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/BusinessGuide/documents"
   />
 
   {/* Open Graph */}
@@ -101,12 +101,12 @@ const BusinessGuide2 = () => {
 
   <meta
     property="og:url"
-    content="https://www.diarivalencia.com/BusinessGuide/documents"
+    content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/BusinessGuide/documents"
   />
 
   <meta
     property="og:image"
-    content="https://www.diarivalencia.com/Main1.png"
+    content="https://xn--289apct1w55qukgde446a3qjlygg4b.kr/Main1.png"
   />
 </Helmet>
 
